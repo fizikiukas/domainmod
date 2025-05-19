@@ -139,4 +139,4 @@ class Hostinger
     {
         return ($autorenewal_result) ? '1' : '0';
     }
-} //@formatter:on 
+} //@formatter:on
